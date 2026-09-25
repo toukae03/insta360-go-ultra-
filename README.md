@@ -1,6 +1,6 @@
 # Market Response Analysis: Insta360 GO Ultra
 
-Sentiment, topic and user-segmentation analysis of **2,324 viewer comments** on a hands-on review video of the Insta360 GO Ultra — combining rule-based scene detection, SnowNLP sentiment grading, BERT-based user-type classification, and Power BI dashboards.
+Sentiment, topic and user-segmentation analysis of **2,324 viewer comments** on a hands-on review video of the Insta360 GO Ultra, capturing user attitudes and affective responses toward a consumer technology — combining rule-based scene detection, SnowNLP sentiment grading, BERT-based user-type classification, and Power BI dashboards.
 
 ![Analysis pipeline](visualization/flowcharts/01_pipeline_overview.jpg)
 
@@ -14,6 +14,10 @@ Sentiment, topic and user-segmentation analysis of **2,324 viewer comments** on 
 | `data/` | Raw crawled comments and labeled datasets |
 | `visualization/` | Power BI report, 16 word clouds, pipeline diagrams |
 | `report/` | Full written report (PDF / DOCX) |
+
+## Motivation
+
+Understanding how people perceive and emotionally respond to new technologies — studied here through naturally expressed comments rather than prompted survey responses.
 
 ## Method
 
