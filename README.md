@@ -55,6 +55,7 @@ Four sequential stages:
 ## Key findings
 
 - **Overall acceptance with clear room for improvement** — positive sentiment accounts for over 43% of labeled comments while negative sentiment reaches 35%.
+- **Affective responses vary sharply across user segments** — the dominant first-time-trier group is emotionally polarized (27.9% core positive vs 25.7% negative); vloggers express the strongest negative sentiment of any segment, while daily recorders keep stable positive affect.
 - **Extremely concentrated user structure** — first-time triers make up 85.9% of the audience, indicating a consumer / entry-level product position; professional creator and vlogger segments together are below 1%, leaving the professional market largely untapped.
 - **Competitive threats are non-negligible** — although competitor-advantage (30) and usage-concerns (62) labels are small in volume, they concentrate exactly where purchase decisions are made.
 - **Strong regional polarization** — Guangdong leads both core positive (111) and negative (89) counts; Zhejiang and Jiangsu show stable, high satisfaction, while overseas markets (Japan, US) remain low-penetration.
